@@ -13,8 +13,8 @@ esp.osdebug(None)
 gc.collect()
 
 # Replace with your network credentials
-SSID = 'CELIK2'
-PASSWORD = 'CelikCelikAilesi'
+SSID = '?'
+PASSWORD = '?'
 
 # Connect to Wi-Fi
 station = network.WLAN(network.STA_IF)
